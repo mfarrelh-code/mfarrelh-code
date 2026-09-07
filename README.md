@@ -28,11 +28,5 @@
 <br>
 
 **📊 GitHub Analytics**
-<p align="center">
-  <a href="https://github.com/mfarrelh-code">
-    <img src="https://github-readme-stats.vercel.app/api?username=mfarrelh-code&show_icons=true&hide_border=true" alt="GitHub Stats" />
-  </a>
-  <a href="https://github.com/mfarrelh-code">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mfarrelh-code&layout=compact&hide_border=true" alt="Top Languages" />
-  </a>
-</p>
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=mfarrelh-code&theme=dark)
