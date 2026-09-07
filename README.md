@@ -2,14 +2,14 @@
 <h3 align="center">Informatics Student | Cybersecurity & Cloud Enthusiast | C, C++, Python & Solidity Developer</h3>
 
 <p align="left">
-  Saya adalah mahasiswa Informatika yang saat ini berkuliah di Universitas Diponegoro dengan ketertarikan mendalam pada keamanan siber, Cloud Computing, matematika terapan, dan pengembangan perangkat lunak tingkat sistem maupun Web3. Saya aktif memecahkan tantangan <i>Capture The Flag</i> (CTF), mengeksplorasi kerentanan <i>smart contract</i>, dan merancang logika sistem digital.
+  I am an Informatics student at Diponegoro University with a strong passion for cybersecurity, cloud computing, applied mathematics, and software development spanning system-level engineering to Web3. I actively participate in Capture The Flag (CTF) competitions, audit smart contract vulnerabilities, and design digital logic systems.
 </p>
 
-- 🔭 Saat ini sedang fokus pada: **Digital Forensics, Web Exploitation, dan CTF Competitions**
-- 🌱 Sedang mendalami: **Cloud Computing, Analisis Numerik, Algoritma Kriptografi, dan Arsitektur Komputer**
-- 🤝 Bersedia berkolaborasi pada: **Proyek C/C++, Python, Web3 (Solidity), atau infrastruktur Cloud**
-- 💬 Tanyakan saya tentang: **C, C++, Python, Solidity, Cloud, Matematika Diskrit, Kalkulus, atau Logika Digital**
-- 📫 Cara menghubungi saya: https://github.com/mfarrelh-code | https://www.linkedin.com/in/muhammad-farrel-hananto-a85020369/ | m.farrel.h@gmail.com
+- 🔭 Currently focusing on: **Digital Forensics, Web Exploitation, and CTF Competitions**
+- 🌱 Currently learning: **Cloud Computing, Numerical Analysis, Cryptographic Algorithms, and Computer Architecture**
+- 👯 Looking to collaborate on: **C/C++ Projects, Python Development, Web3 (Solidity), or Cloud Infrastructure**
+- 💬 Ask me about: **C, C++, Python, Solidity, Cloud Computing, Discrete Math, Calculus, or Digital Logic**
+- 📫 How to reach me: https://www.linkedin.com/in/muhammad-farrel-hananto-a85020369/ | m.farrel.h@gmail.com
 
 <br>
 
