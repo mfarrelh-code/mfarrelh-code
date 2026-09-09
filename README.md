@@ -7,7 +7,7 @@
 
 - 🔭 Currently focusing on: **Digital Forensics, Web Exploitation, and CTF Competitions**
 - 🌱 Currently learning: **Cloud Computing, Numerical Analysis, Cryptographic Algorithms, and Computer Architecture**
-- 👯 Looking to collaborate on: **C/C++ Projects, Python Development, Web3 (Solidity), or Cloud Infrastructure**
+- 🤝 Looking to collaborate on: **C/C++ Projects, Python Development, Web3 (Solidity), or Cloud Infrastructure**
 - 💬 Ask me about: **C, C++, Python, Solidity, Cloud Computing, Discrete Math, Calculus, or Digital Logic**
 - 📫 How to reach me: https://www.linkedin.com/in/muhammad-farrel-hananto-a85020369/ | m.farrel.h@gmail.com
 
